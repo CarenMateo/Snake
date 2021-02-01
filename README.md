@@ -18,13 +18,12 @@ Francisco González, Pablo Bravo y Ángel Doña  Recopilando información sob
 24-01-2021
 
 Francisco González --> Creación del archivo README donde anotamos todos los cambios, avances y desarrollo del proyecto.
-Francisco González, Ángel Doña, Pablo Bravo, Andrés Segura ,Carmen y Juan Rueda Comenzamos la clase Pieza ayudándonos de las cosas comentadas en clase, estuvimos analizando la clase ObejetoVolador del proyecto SpaceInvaders para poder continuar la clase Pieza.
+Francisco González, Ángel Doña, Pablo Bravo, Andrés Segura ,Carmen y Juan Rueda --> Comenzamos la clase Pieza ayudándonos de las cosas comentadas en clase, estuvimos analizando la clase ObejetoVolador del proyecto SpaceInvaders para poder continuar la clase Pieza.
 
 
 27-01-2021
 
-Gracias a la clase que tuvimos el Martes, pillamos muchos conceptos y entre todos, estuvimos realizando las clases Pieza y Serpiente. La clase Pieza la hemos terminado y la clase 
-Serpiente aun nos falta rematarla.
+Gracias a la clase que tuvimos el Martes, pillamos muchos conceptos y entre todos, estuvimos realizando las clases Pieza y Serpiente. La clase Pieza la hemos terminado y la clase Serpiente aun nos falta rematarla.
 
 
 
