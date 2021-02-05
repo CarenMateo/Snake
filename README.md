@@ -32,3 +32,8 @@ Gracias a la clase que tuvimos el Martes, pillamos muchos conceptos y entre todo
 Hemos echo nuestro primer push de la clase Pieza y la clase Serpiente aunque nos falta los metodos movimientos y crecer que no sabemos terminarlos.
 
 NOTA: No hemos subido antes nada al readme por que lo estabamos haciendo en un documento word.
+
+
+05-02-2021
+
+Francisco González --> Creación de la clase Controlador.
