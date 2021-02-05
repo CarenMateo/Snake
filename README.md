@@ -34,6 +34,8 @@ Hemos echo nuestro primer push de la clase Pieza y la clase Serpiente aunque nos
 NOTA: No hemos subido antes nada al readme por que lo estabamos haciendo en un documento word.
 
 
+
+
 05-02-2021
 
-Francisco González --> Creación de la clase Controlador.
+Francisco González --> Creación de la clase Controlador. Una vez terminada la clase, intente hacer el commit y el push pero no me dejaba por que en mi proyecto no tenia clonada las clases Pieza y Serpiente, y a la hora de hacer el push me daba un error y con la ayuda de Angel arreglamos el error y pude hacer el commit y push al repositorio.
