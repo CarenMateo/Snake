@@ -24,6 +24,7 @@ Francisco González, Ángel Doña, Pablo Bravo, Andrés Segura ,Carmen y Juan Ru
 27-01-2021
 
 Gracias a la clase que tuvimos el Martes, pillamos muchos conceptos y entre todos, estuvimos realizando las clases Pieza y Serpiente. La clase Pieza la hemos terminado y la clase Serpiente aun nos falta rematarla.
+Carmen Mateo, Andrés Segura --> Creación del diagrama de clases
 
 
 
@@ -39,3 +40,9 @@ NOTA: No hemos subido antes nada al readme por que lo estabamos haciendo en un d
 05-02-2021
 
 Francisco González --> Creación de la clase Controlador. Una vez terminada la clase, intente hacer el commit y el push pero no me dejaba por que en mi proyecto no tenia clonada las clases Pieza y Serpiente, y a la hora de hacer el push me daba un error y con la ayuda de Angel arreglamos el error y pude hacer el commit y push al repositorio.
+
+
+
+09-02-2021
+
+Carmen Mateo - -> Finalización del diagrama de clases y comienzo del diagrama de objetos
