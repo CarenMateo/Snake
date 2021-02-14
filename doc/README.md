@@ -45,4 +45,17 @@ Francisco González --> Creación de la clase Controlador. Una vez terminada la 
 
 09-02-2021
 
-Carmen Mateo - -> Finalización del diagrama de clases y comienzo del diagrama de objetos
+Carmen Mateo - -> Finalización del diagrama de clases y comienzo del diagrama de objetos.
+
+
+
+14-02-2021
+
+Carmen Mateo --> Elaboración de las imagenes de inicio y fin del juego.
+
+Andres Segura --> Elaboración de la clase Estado Teclado.
+
+Francisco González --> Añadidos de nuevos metodos y estados a la clase Controlador. Con su correspondiente commit y push.
+
+Angel --> Añadidos de nuevos metodos y estados a la clase Serpiente y clase MyGdxGame.Con su correspondiente commit y push.
+
