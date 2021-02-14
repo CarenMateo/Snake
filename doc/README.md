@@ -30,7 +30,7 @@ Carmen Mateo, Andrés Segura --> Creación del diagrama de clases
 
 01-02-2021
 
-Hemos echo nuestro primer push de la clase Pieza y la clase Serpiente aunque nos falta los metodos movimientos y crecer que no sabemos terminarlos.
+Francisco González y Angel --> Hemos echo nuestro primer push de la clase Pieza y la clase Serpiente aunque nos falta los metodos movimientos y crecer que no sabemos terminarlos.
 
 NOTA: No hemos subido antes nada al readme por que lo estabamos haciendo en un documento word.
 
@@ -39,7 +39,7 @@ NOTA: No hemos subido antes nada al readme por que lo estabamos haciendo en un d
 
 05-02-2021
 
-Francisco González --> Creación de la clase Controlador. Una vez terminada la clase, intente hacer el commit y el push pero no me dejaba por que en mi proyecto no tenia clonada las clases Pieza y Serpiente, y a la hora de hacer el push me daba un error y con la ayuda de Angel arreglamos el error y pude hacer el commit y push al repositorio.
+Francisco González --> Actualización del documento readme, Creación de la clase Controlador. Una vez terminada la clase, intente hacer el commit y el push pero no me dejaba por que en mi proyecto no tenia clonada las clases Pieza y Serpiente, y a la hora de hacer el push me daba un error y con la ayuda de Angel arreglamos el error y pude hacer el commit y push al repositorio.
 
 
 
@@ -55,7 +55,7 @@ Carmen Mateo --> Elaboración de las imagenes de inicio y fin del juego.
 
 Andres Segura --> Elaboración de la clase Estado Teclado.
 
-Francisco González --> Añadidos de nuevos metodos y estados a la clase Controlador. Con su correspondiente commit y push.
+Francisco González --> Actualización del documento readme, añadidos de nuevos metodos y estados a la clase Controlador. Con su correspondiente commit y push.
 
 Angel --> Añadidos de nuevos metodos y estados a la clase Serpiente y clase MyGdxGame.Con su correspondiente commit y push.
 
