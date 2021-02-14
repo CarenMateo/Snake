@@ -28,6 +28,20 @@ public class Serpiente {
             cuerpo.get(i).render(miSB);
         }
     }
+    public Serpiente(Serpiente antigua){
+        Pieza nuevaCabeza;
+
+        PosX= antigua.getPosX();
+        PosY = antigua.getPosY();
+        ancho = antigua.getAncho();
+
+        nuevaCabeza = new Pieza(PosX,PosY,nancho);
+
+        direccion = Pieza.ARR;
+
+        miCuerpo = new ArrayLis();
+        miCuerpo.add(nuevaCabeza);
+    }
     //moverse
     public void  moverse(int direccion){
         switch (direccion){
