@@ -23,7 +23,7 @@ Francisco González, Ángel Doña, Pablo Bravo, Andrés Segura ,Carmen y Juan Ru
 
 27-01-2021
 
-Gracias a la clase que tuvimos el Martes, pillamos muchos conceptos y entre todos, estuvimos realizando las clases Pieza y Serpiente. La clase Pieza la hemos terminado y la clase Serpiente aun nos falta rematarla.
+Gracias a la clase que tuvimos el Martes, captamos muchos conceptos y entre todos, estuvimos realizando las clases Pieza y Serpiente. La clase Pieza la hemos terminado y la clase Serpiente aun nos falta "rematarla".
 Carmen Mateo, Andrés Segura --> Creación del diagrama de clases
 
 
@@ -46,7 +46,8 @@ Francisco González --> Actualización del documento readme, Creación de la cla
 09-02-2021
 
 Carmen Mateo - -> Finalización del diagrama de clases y comienzo del diagrama de objetos.
-
+Pablo Bravo --> Elaboración diagrama de caso de uso.
+Juan Rueda --> ayuda a Pablo Bravo en el diseño del diagrama de caso de uso.
 
 
 14-02-2021
@@ -58,4 +59,5 @@ Andres Segura --> Elaboración de la clase Estado Teclado.
 Francisco González --> Actualización del documento readme, añadidos de nuevos metodos y estados a la clase Controlador. Con su correspondiente commit y push.
 
 Angel --> Añadidos de nuevos metodos y estados a la clase Serpiente y clase MyGdxGame.Con su correspondiente commit y push.
+
 
