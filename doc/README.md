@@ -24,7 +24,7 @@ Francisco González, Ángel Doña, Pablo Bravo, Andrés Segura ,Carmen y Juan Ru
 
 27-01-2021
 Gracias a la clase que tuvimos el Martes, captamos muchos conceptos y entre todos, estuvimos realizando las clases Pieza y Serpiente. La clase Pieza la hemos terminado y la clase Serpiente aun nos falta "rematarla".
-Carmen Mateo, Andrés Segura --> Creación del diagrama de clases
+Carmen Mateo, Andrés Segura --> Creación del diagrama de clases.
 
 
 01-02-2021
@@ -50,6 +50,7 @@ Angel --> Añadidos de nuevos metodos y estados a la clase Serpiente y clase MyG
 
 
 22-02-2021
-Francisco González --> Ha echo el metodo controlaEstadoJugando en la clase Controlador. 
+Francisco González --> Ha hecho el método controlaEstadoJugando en la clase Controlador. 
+Pablo Bravo--> Finaliza el diagrama de caso de uso.
 
 
