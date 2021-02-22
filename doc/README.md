@@ -51,6 +51,7 @@ Angel --> Añadidos de nuevos metodos y estados a la clase Serpiente y clase MyG
 
 22-02-2021
 Francisco González --> Ha hecho el método controlaEstadoJugando en la clase Controlador. 
+
 Pablo Bravo--> Finaliza el diagrama de caso de uso.
 
 
