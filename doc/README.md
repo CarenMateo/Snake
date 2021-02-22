@@ -38,7 +38,9 @@ Francisco González --> Actualización del documento readme, Creación de la cla
 
 09-02-2021
 Carmen Mateo - -> Finalización del diagrama de clases y comienzo del diagrama de objetos.
+
 Pablo Bravo --> Elaboración diagrama de caso de uso.
+
 Juan Rueda --> ayuda a Pablo Bravo en el diseño del diagrama de caso de uso.
 
 
