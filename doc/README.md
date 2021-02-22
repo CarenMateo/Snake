@@ -48,8 +48,11 @@ Francisco González -> Actualización del documento readme, añadidos de nuevos 
 Ángel -> Añadidos de nuevos métodos y estados a la clase Serpiente y clase MyGdxGame. Con su correspondiente commit y push.
 
 22-02-2021 
-Francisco González -> Ha hecho el método controlaEstadoJugando en la clase Controlador. Y finalización de esta clase.
+Francisco González y Ángel Doña-> Hemos hecho el método controlaEstadoJugando en la clase Controlador y finalización de esta clase, correcion de errores en la clase Serpiente, en la clase Controlador y en la clase MygdxGame. Una vez finalizadas todas las clases, hemos intentado hacer el push al repositorio y nos hemos dado cuenta que no podiamos y todo se debe a que en la asignatura de programación, hemos instalado Maven. Estuvimos buscando por internet como poder solucionarlo y despues de casi dos horas y no encontar nada al respecto, hemos decidido crear un nuevo proyecto en android studio para ver si así al ser nuevo, no tendriamos ningun error. Hemos copiado todas las clases ya terminadas y sin ningun error en el nuevo proyecto. Lo siguiente que hemos realizado, ha sido poner sonido a nuestro juego. Hemos puesto sonido al menu de inicio, mientras estas en partida, cuando la serpiente crece y al terminar el juego. Una vez terminado todo, habiamos pensado hacer un push en este mismo repositorio del proyecto nuevo, pero por miedo a que no se quedara reflejado ninguno de los push hecho previamente, hemos decicido crear un nuevo repositorio en github. Que es el siguiente: https://github.com/Andoga/SerpienteErrorMavenSolucionado 
+
 Pablo Bravo -> Finaliza el diagrama de caso de uso.
+
+
 
 
 
