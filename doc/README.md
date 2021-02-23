@@ -52,6 +52,10 @@ Francisco González y Ángel Doña-> Hemos hecho el método controlaEstadoJugand
 
 Pablo Bravo -> Finaliza el diagrama de caso de uso.
 
+23-02-2021
+
+Pablo Bravo--> Diseño e implementación del sprite del cuerpo de la serpiente.
+
 
 
 
