@@ -57,6 +57,10 @@ Pablo Bravo -> Finaliza el diagrama de caso de uso.
 Pablo Bravo--> Diseño e implementación del sprite del cuerpo de la serpiente.
 Carmen Mateo --> Finalización de las imagenes de inicio y final de partida.
 
+24-02-2021
+
+A partir de aquí, todas las actualizaciones ya estan echas en el nuevo readme del otro repositorio.
+
 
 
 
