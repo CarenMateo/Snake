@@ -37,12 +37,12 @@ NOTA: No hemos subido antes nada al readme por que lo estábamos haciendo en un 
 Francisco González -> Actualización del documento readme, creación de la clase Controlador. Intente hacer el commit y el push pero no me dejaba por que en mi proyecto en Android Studio no tenía clonada las clases Pieza y Serpiente, y a la hora de hacer el push me daba un error y con la ayuda de Ángel arreglamos el error y pude hacer el commit y push al repositorio.
 
 09-02-2021 
-Carmen Mateo -> Finalización del diagrama de clases y comienzo del diagrama de objetos.
+Carmen Mateo -> Continuación del diagrama de clases y comienzo del diagrama de objetos.
 Pablo Bravo -> Elaboración diagrama de caso de uso.
 Juan Rueda -> Ayuda a Pablo Bravo en el diseño del diagrama de caso de uso.
 
 14-02-2021 
-Carmen Mateo -> Elaboración de las imágenes de inicio y fin del juego. 
+Carmen Mateo -> Comienzo de la elaboración de las imágenes de inicio y fin del juego. 
 Andrés Segura -> Elaboración de la clase Estado Teclado. 
 Francisco González -> Actualización del documento readme, añadidos de nuevos métodos y estados a la clase Controlador. Con su correspondiente commit y push. 
 Ángel -> Añadidos de nuevos métodos y estados a la clase Serpiente y clase MyGdxGame. Con su correspondiente commit y push.
